@@ -1,7 +1,7 @@
 This Python code allows to record Google search
 
-# Packages
+## Packages
 pip install httpx parsel time csv
 
-# Environment
+## Environment
 python -m venv myevn
