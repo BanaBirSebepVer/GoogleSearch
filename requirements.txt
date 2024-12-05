@@ -2,3 +2,4 @@ httpx
 parsel
 time
 csv
+scrapy
