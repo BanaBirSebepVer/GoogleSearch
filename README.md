@@ -37,3 +37,9 @@ This scraper is a basic example to get you started with web scraping in Python. 
 This code is for educational purposes only.
 Be sure to check the terms of service of any website before scraping data from it.
 Respect robots.txt files.
+
+
+## Contributors of this repo
+<a href="https://github.com/BanaBirSebepVer/GoogleSearch/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BanaBirSebepVer/GoogleSearch" />
+</a>
